@@ -5,4 +5,4 @@ It uses the UK Government VES API to retrieve and display data from inputted reg
 
 To use this, you must enter your API Key in the main ContentView.swift File.
 
-<img src="images/Preview.gif" width="400" height="800">
+![Alt Text](https://github.com/Hzste/VehicleChecker/blob/main/Preview.gif)
